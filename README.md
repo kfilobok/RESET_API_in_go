@@ -18,3 +18,5 @@ For example:
     }
 }
 
+[1](https://proglib.io/p/rest-api-go)
+[2](https://dev.to/envitab/how-to-build-an-api-using-go-ffk)
